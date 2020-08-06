@@ -1,0 +1,1 @@
+{'successorScore': 0.0, 'bias': 0.0, 'numGhosts-OneStepAway': 0.0, 'numGhosts-Scared': 0.0, 'closestFood': 0.0}
